@@ -1,0 +1,23 @@
+[21-Apr-2016 08:29:12 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 08:29:46 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 08:30:54 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 08:33:49 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 08:35:17 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 08:38:29 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 08:42:50 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 08:43:23 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:05:12 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:05:13 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:06:49 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:06:50 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:09:21 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:09:22 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:09:22 America/New_York] PHP Warning:  require_once(authnet/AuthorizeNet.php): failed to open stream: No such file or directory in /home/wipdualcube/public_html/moodle/paymentgateway/enrol/authorizedotnet/update.php on line 37
+[22-Apr-2016 00:09:22 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'authnet/AuthorizeNet.php' (include_path='/home/wipdualcube/public_html/moodle/paymentgateway/lib/zend:/home/wipdualcube/public_html/moodle/paymentgateway/lib/pear:.:/usr/lib/php:/usr/local/lib/php') in /home/wipdualcube/public_html/moodle/paymentgateway/enrol/authorizedotnet/update.php on line 37
+[22-Apr-2016 00:11:38 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:11:39 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:11:40 America/New_York] PHP Warning:  require_once(authnet/AuthorizeNet.php): failed to open stream: No such file or directory in /home/wipdualcube/public_html/moodle/paymentgateway/enrol/authorizedotnet/update.php on line 37
+[22-Apr-2016 00:11:40 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'authnet/AuthorizeNet.php' (include_path='/home/wipdualcube/public_html/moodle/paymentgateway/lib/zend:/home/wipdualcube/public_html/moodle/paymentgateway/lib/pear:.:/usr/lib/php:/usr/local/lib/php') in /home/wipdualcube/public_html/moodle/paymentgateway/enrol/authorizedotnet/update.php on line 37
+[22-Apr-2016 00:12:48 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:12:49 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2016 00:12:50 America/New_York] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
